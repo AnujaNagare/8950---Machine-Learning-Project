@@ -1,3 +1,7 @@
+### @author  Anuja Pradeep Nagare 
+###          anuja.nagare@uga.edu
+### @version 25/04/2017
+
 import time
 start_time = time.time()
 
