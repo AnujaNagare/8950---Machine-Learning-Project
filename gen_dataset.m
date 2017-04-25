@@ -1,6 +1,6 @@
 % Generate a dataset with equal number of tuples for
 % 0's and 1's as a taget value
-%%% @author  Anuja Pradeep Nagare 
+%%% @author  Anuja Pradeep Nagare
 %%%          anuja.nagare@uga.edu
 %%% @version 25/04/2017
 
